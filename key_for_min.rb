@@ -18,7 +18,7 @@ end
 min_name
 end
 else
-  nil 
+  nil
 end
 
 end
