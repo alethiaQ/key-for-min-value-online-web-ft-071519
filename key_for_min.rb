@@ -10,10 +10,12 @@ def key_for_min_value(name_hash)
     name_hash.collect do |item, price|
       if price > max
         min = max && min_name = max_name if min < max
-        
+
 
         max_name = item
         max = price
-
-
 end
+end
+end
+min_name
+end 
