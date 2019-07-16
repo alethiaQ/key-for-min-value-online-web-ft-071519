@@ -10,5 +10,5 @@ min_price = nil
       min_item = item
     end
 end
-min_key
+min_item
 end
