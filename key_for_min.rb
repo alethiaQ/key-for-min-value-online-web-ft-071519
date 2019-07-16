@@ -15,8 +15,9 @@ def key_for_min_value(name_hash)
         max_name = item
         max = price
 end
-min_name
+
 end
+min_name
 else
   nil
 end
